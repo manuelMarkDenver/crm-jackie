@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/crm-jackie/static/css/main.abd64e84.css",
-    "main.js": "/crm-jackie/static/js/main.336391df.js",
+    "main.js": "/crm-jackie/static/js/main.cbd4223b.js",
     "index.html": "/crm-jackie/index.html",
     "main.abd64e84.css.map": "/crm-jackie/static/css/main.abd64e84.css.map",
-    "main.336391df.js.map": "/crm-jackie/static/js/main.336391df.js.map"
+    "main.cbd4223b.js.map": "/crm-jackie/static/js/main.cbd4223b.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.336391df.js"
+    "static/js/main.cbd4223b.js"
   ]
 }
