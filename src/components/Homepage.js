@@ -23,7 +23,7 @@ const Homepage = () => {
 
   console.log(posts)
 
-  return <div>{posts[0].title.rendered}</div>;
+  return <div>crm</div>;
 };
 
 export default Homepage;
